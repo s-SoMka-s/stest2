@@ -1,0 +1,6 @@
+﻿  theEscaper.cpp
+g:\git_project\theescaper\theescaper\theescaper.cpp(14): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+g:\git_project\theescaper\theescaper\theescaper.cpp(15): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+g:\git_project\theescaper\theescaper\theescaper.cpp(16): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+g:\git_project\theescaper\theescaper\theescaper.cpp(17): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  theEscaper.vcxproj -> G:\git_project\theEscaper\Debug\theEscaper.exe
